@@ -1,10 +1,5 @@
 # img_preprocessing
 # README
-Changed by me
-> GUI for KMGEsim
-
-![GUI](https://github.com/KMGEsim/KMGEsim_TP/blob/master/f100int10.gif)
-
 ## Getting Started
 
 ## Installation
@@ -31,8 +26,8 @@ Install virtualenv:
 > cd <Repo name> # change directory
 > virtualenv env # create virtual enviroment
 > env\Scripts\activate # activate virtual env
-> git clone https://github.com/KMGEsim/KMGEsim_VS.git # clone repository
-> cd KMGEsim_VS # got to folder KMGEsim_VS
+> git clone https://github.com/Bekbo01/img_preprocessing.git # clone repository
+> cd img_preprocessing # got to folder img_preprocessing
 > pip install -r requirements.txt # install requirements packages
 > ..\env\Scripts\deactivate # deactivate enviroment
 ```
