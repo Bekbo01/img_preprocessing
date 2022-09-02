@@ -1,11 +1,11 @@
 # img_preprocessing
 ## Getting Started
  Noise Detection
-
+<p>
 SL recognition is a classification task, hence, the data should be divided so that in the resulting sets, the numerical ratio of objects of different classes is the same as in the original population. Such a sample, called a dataset, is needed to train the Machine Learning model to train the system and then use it to solve real-world problems.  The experiment used the dataset alphabet KSL, which consists of 42 letters (figure), which was prepared by 41 classes of datasets (formula), some of them were artificially imposed random noise.
 
- 
-
+<img src="./letters.png" />
+</p>
 Suppose there is dataset A, which consists of 41 KSL letters, each class has 100 frames, and a total of 41 thousand frames are included in the experiment.
 А={a_1,a_2,a_3…a_41 },where |A|=41  
 
