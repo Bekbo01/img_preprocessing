@@ -4,9 +4,9 @@
 <p>
 SL recognition is a classification task, hence, the data should be divided so that in the resulting sets, the numerical ratio of objects of different classes is the same as in the original population. Such a sample, called a dataset, is needed to train the Machine Learning model to train the system and then use it to solve real-world problems.  The experiment used the dataset alphabet KSL, which consists of 42 letters (figure), which was prepared by 41 classes of datasets (formula), some of them were artificially imposed random noise.
 
-<img src="./letters.png" /></p>
-<p> <img src="./formulas.png" /> </p>
-<p> <img src="./noise_graph.png" /> </p>
+<img src="./images/letters.png" /></p>
+<p> <img src="./images/formulas.png" /> </p>
+<p> <img src="./images/noise_graph.png" /> </p>
 
 The proposed method of noise detection allows you to pre-check the presence of noise in the frames when creating a video recording, for real-time gesture recognition systems or detection of noise frames in the finished datasets, which ultimately can ensure the successful operation of any object recognition systems.
 
@@ -14,7 +14,7 @@ The proposed method of noise detection allows you to pre-check the presence of n
 
 Modern computer technology allows to carry out the automated analysis of various images. This requires, as a rule, the use of methods and algorithms of image preprocessing, their segmentation to select objects on them, and further study of these objects or their identification. However, most of the algorithms used for this require manual image preprocessing. This paper proposes an adapted method of image preprocessing that will use for filtering those or other filters depending on the noise in the input image and depending on the method of object recognition in the image.
 Further, to eliminate noise detected frames for systems where objects on the frames are recognized on the basis of segmentation or extraction of the value proposed the following solution: 
-<p> <img src="./formulas_2.png" /> </p>
+<p> <img src="./images/formulas_2.png" /> </p>
 
 Thus, the proposed algorithm of image preprocessing for the selection of objects on it does not assume the presence of a priori knowledge about the image, which makes the algorithm universal. This algorithm can be used in research aimed at developing gesture recognition systems for adaptive preprocessing. 
 
