@@ -2,15 +2,6 @@
 ## Getting Started
 ### Noise Detection
 <p>
-SL recognition is a classification task, hence, the data should be divided so that in the resulting sets, the numerical ratio of objects of different classes is the same as in the original population. Such a sample, called a dataset, is needed to train the Machine Learning model to train the system and then use it to solve real-world problems.  The experiment used the dataset alphabet KSL, which consists of 42 letters (figure), which was prepared by 41 classes of datasets (formula), some of them were artificially imposed random noise.
-
-<img src="./images/letters.png" /></p>
-<p> <img src="./images/formulas.png" /> </p>
-<p> <img src="./images/noise_graph.png" /> </p>
-
-The proposed method of noise detection allows you to pre-check the presence of noise in the frames when creating a video recording, for real-time gesture recognition systems or detection of noise frames in the finished datasets, which ultimately can ensure the successful operation of any object recognition systems.
-
-
 
 ## Installation
 ### Window Python Installation Guide
