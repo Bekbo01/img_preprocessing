@@ -2,7 +2,7 @@
 ## Getting Started
 ### Noise Detection
 <p>
-
+The problem of noise-suppression is caused by one of rather actual and widespread problems in the field of recognition of static and dynamic gestures. Existing noise-suppression mechanisms are traditionally specialized to suppress a certain type of noise, so there are no integral filters suppressing all types of noise. Additive Gaussian and impulse noise models are characterized as the most optimal in terms of their application to sign language recognition tasks. Additive Gaussian noise is characterized by adding values from the corresponding normal distribution with a zero mean to each pixel of the image. Impulse noise is interpreted by replacing part of the pixels in an image with values of a fixed or random value. This noise modification is associated with errors in image transmission, for example.
 ## Installation
 ### Window Python Installation Guide
 
